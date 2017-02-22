@@ -28,8 +28,8 @@ var dialog = new builder.IntentDialog({ recognizers: [recognizer] });
 var amazon = require('amazon-product-api');
 
 var client = amazon.createClient({
-  awsId: "AKIAJWYKWUURHW5JDYHQ",
-  awsSecret: "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",
+  awsId: "ID",
+  awsSecret: "KEY",
   awsTag: "pratik0d1-21"
 });
 
